@@ -1,0 +1,86 @@
+p {
+	font-size:24px;
+	font-family: Trebuchet MS, arial, sans-serif;
+	text-align: justify;
+}
+
+img {
+	width: 400px;
+	height: 350px;
+	border: 5px solid black;
+	border-radius: 5px;
+	margin: 30px;
+
+}
+
+ul {
+	
+	background-color: #616D7E;
+	font-family: Trebuchet MS, arial, sans-serif;
+	font-size:18px;
+	color: white;
+	
+}
+
+footer{
+	font-size:10px;
+	font-family: Trebuchet MS, arial, sans-serif;
+	clear:both;
+}
+
+header {
+	font-size: 50px;
+	font-family: Trebuchet MS, arial, sans-serif;
+	max-width:100%;
+	text-align: center;
+	
+}
+
+body {
+	background: #b9c0c7;
+}
+
+
+
+nav {
+	background-color: #616D7E;
+	font-family: Trebuchet MS, arial, sans-serif;
+	font-size:24px;
+	padding: 20px;
+	width: 100%;
+	text-decoration: none;
+	list-style-type: none;
+    float: left;
+    text-decoration: none;
+    
+}
+
+nav > a {
+    display: inline-flex;
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+    border-left: 3px solid blue;
+    padding: 10px 16px;
+}
+
+
+a:hover {
+    background-color: #111;
+}
+
+li a {
+    text-decoration:none;
+    color: #112C08;
+}
+
+
+
+
+
+
+
+
+
+
+
