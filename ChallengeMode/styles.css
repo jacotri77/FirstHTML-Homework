@@ -9,6 +9,7 @@ a {
   text-decoration: none;
 }
 
+
 .background {
   
 }
@@ -24,4 +25,6 @@ a {
   float: left;
   margin-right: 15px;
   margin-bottom: 50px;
+  padding:10px;
+
 }
